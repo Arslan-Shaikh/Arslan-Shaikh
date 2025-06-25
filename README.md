@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arslan Shaikh</h1>
-<h3 align="center">Dedicated to developing high-quality, maintainable websites using industry-standard tools.a</h3>
+<h3 align="center">Dedicated to developing high-quality, maintainable websites using industry-standard tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="arslan-shaikh" /> </p>
 
